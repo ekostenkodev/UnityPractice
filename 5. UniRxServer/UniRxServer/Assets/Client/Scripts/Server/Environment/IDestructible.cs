@@ -1,0 +1,4 @@
+﻿interface IDestructible
+{
+    void DestroyObject();
+}
